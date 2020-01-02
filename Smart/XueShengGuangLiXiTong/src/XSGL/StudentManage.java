@@ -6,6 +6,7 @@ public class StudentManage {
     public static void main(String args[]){
         ArrayList<Student> array = new ArrayList<>();
         while(true){
+
             System.out.println("------学生管理系统------");
             System.out.println(" 1.查看所有学生");
             System.out.println(" 2.增加学生");
