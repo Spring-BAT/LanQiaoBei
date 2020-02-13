@@ -1,0 +1,4 @@
+No./tName/tgrade1/tgrade2/tgrade3/taverage
+001/t豹子头/t75.0/t48.4
+/t94.0/t48.4
+/t73.0/t48.4
